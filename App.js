@@ -79,7 +79,7 @@ export default function ImagePickerExample() {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
       <Button
-        title="Elija la foto que desea procesar"
+        title="Elija la foto que desea procesar "
         color="coral"
         onPress={pickImage}
       />
